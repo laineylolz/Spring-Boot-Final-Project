@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: playlistdb
+    username: playlistdb
+    url:  jdbc:mysql://localhost:3306/PlaylistDB
+   
